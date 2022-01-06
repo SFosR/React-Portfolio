@@ -1,7 +1,5 @@
 # REACT Portfolio
-
-## About
-
+This is a collection of my work to share with other developers and potential employers. It will also be a good reference for me to remind myself how far I've come. 
 ## Mock Up
 
 
