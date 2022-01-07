@@ -25,25 +25,20 @@ function Portfolio() {
         github="https://github.com/SFosR/Note-Taker.git"
         livelink="https://note-taker-shf.herokuapp.com/" />  
 
-        <ProjectCard title="Another Project" 
-        img="jpeg"
+        <ProjectCard title="Employee Management System" 
+        img="Employee Management System"
         description="" 
-        github=""
+        github="https://github.com/SFosR/Employee-Tracker.git"
+        livelink="https://youtu.be/fuAlOvWEFho" /> 
+
+        <ProjectCard title="Movie Search Engine" 
+        img="moviepicker.png"
+        description="" 
+        github="https://github.com/SFosR/Project-1.git"
         livelink="" /> 
 
-        <ProjectCard title="Another Project" 
-        img="jpeg"
-        description="" 
-        github=""
-        livelink="" /> 
+        <ProjectCard title="Coming Soon" />    
 
-        <ProjectCard title="Another Project" 
-        img="jpeg"
-        description="" 
-        github=""
-        livelink="" />    
-
-        {/* repeat for each project */}
       </div>
     );
   }
