@@ -7,6 +7,8 @@ import Header from './component/Header.js';
 import Footer from './component/Footer.js';
 import background from "./img/greenglobe.jpeg";
 
+// import 'bootstrap/dist/css/bootstrap.min.css';
+
 function App() {
   return (
     <div className="App" style={{ backgroundImage:`url(${background})` }} >
