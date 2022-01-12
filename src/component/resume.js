@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Document, Page, pdfjs } from 'react-pdf';
 import { FiDownload } from "react-icons/fi";
-import Resume from './img/Resume_Sheri Foster.pdf';
+
 
 function Resume() {
 

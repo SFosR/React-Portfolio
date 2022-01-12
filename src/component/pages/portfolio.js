@@ -1,11 +1,12 @@
 import React from "react";
-import ProjectCard from "../component/projectcard";
+import ProjectCard from "../projectcard";
+// import backgroundImage from './img/greenglobe.jpeg';
 
 function Portfolio() {
     return (
       <div className="my-portfolio">
         My Portfolio
-        <ProjectCard title="Project Picker" 
+        <ProjectCard title="Project Picker"
         img="./img/projectpicker.png"
         description="Project that helps future students find ideas for projects. 
         Users can share project ideas and search for projects." 
