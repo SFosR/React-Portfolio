@@ -5,7 +5,7 @@ import React from "react";
 function AboutMe() {
     return (
       <div className="about-me">
-        <img src="mypic from my img file"/>
+        <img src="./img/sherifoster.jpg"/>
       <p>I always thought I should be an engineer of some sort. In fact, every "career test" I've ever taken has said so. So I decided to actually do something about it.  
       After years in sales, having success but not completely loving it, I enrolled in to coding bootcamp. I'mFull Stack web developer wiwth skills in CSS, HTML, JavaScript, MySql, React with more to come. Recently earned a certificate in 
       full stack develpment from THE Ohio State University. With a background in sales, I'm excited to bring my problem solving, independent and 
