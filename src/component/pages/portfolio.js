@@ -1,12 +1,12 @@
 import React from "react";
-import ProjectPicker from '../../assets/projectpicker.png';
-import WeatherDashboard from '../../assets/weatherdash.png';
-import NoteTaker from '../../assets/notetaker.png';
-import EmployeeMgntSys from '../../assets/EmployeeMgntSys.png';
-import MovieSearchEngine from '../../assets/moviepicker.png';
-// import backgroundImage from './img/greenglobe.jpeg';
+import ProjectPicker from '../../Assets/projectpicker.png';
+import WeatherDashboard from '../../Assets/weatherdash.png';
+import NoteTaker from '../../Assets/notetaker.png';
+import EmployeeMgntSys from '../../Assets/EmployeeMgntSys.png';
+import CodeQuiz from '../../Assets/codequiz.png';
 
-function Portfolio() {
+
+export default function Portfolio() {
     return (
       <div className='container-fluid justify-content-center'>
 
@@ -27,41 +27,36 @@ function Portfolio() {
         <a className='btn btn-outline-dark mx-1 mb-3' href="https://sfosr.github.io/Weather-Dash/" target='_blank'>Live</a>
         <a className='btn btn-outline-dark mx-1 mb-3' href="https://github.com/SFosR/Weather-Dash.git" target='_blank'> GitHub</a>
         </div>  
+
+        <div className='col-md-4 col-md-2 text-center m-3 border app-bg'>
+        <h3 className='text-center'>Note Taker</h3>
+        <p className='text-center'>App that allows you to organize and save notes.</p>
+        <img src={NoteTaker} className="photos"></img>
+        <a className='btn btn-outline-dark mx-1 mb-3' href="https://note-taker-shf.herokuapp.com/" target='_blank'>Live</a>
+        <a className='btn btn-outline-dark mx-1 mb-3' href="https://github.com/SFosR/Note-Taker.git" target='_blank'> GitHub</a>
+        </div>  
+
+        <div className='col-md-4 col-md-2 text-center m-3 border app-bg'>
+        <h3 className='text-center'>Employee Management System</h3>
+        <p className='text-center'>System that allows employers to organize and manage employee information.</p>
+        <img src={EmployeeMgntSys} className="photos"></img>
+        <a className='btn btn-outline-dark mx-1 mb-3' href="https://youtu.be/fuAlOvWEFho" target='_blank'>Live</a>
+        <a className='btn btn-outline-dark mx-1 mb-3' href="https://github.com/SFosR/Employee-Tracker.git" target='_blank'> GitHub</a>
+        </div>  
+
+        <div className='col-md-4 col-md-2 text-center m-3 border app-bg'>
+        <h3 className='text-center'>Code Quiz</h3>
+        <p className='text-center'>My first coding bootcamp project</p>
+        <img src={CodeQuiz} className="photos"></img>
+        <a className='btn btn-outline-dark mx-1 mb-3' href="https://sfosr.github.io/Code-Quiz/" target='_blank'>Live</a>
+        <a className='btn btn-outline-dark mx-1 mb-3' href="https://github.com/SFosR/Code-Quiz.git" target='_blank'> GitHub</a>
+        </div>  
         
         </div>  
       </div>
-     
-
-      //   <ProjectCard title="Weather Dashboard" 
-      //   img="jpeg"
-      //   description="Allows users to pull up any city in the USA and find the current weather. 
-      //   It will provide current temperature, humidity, UV index and a 5-day forecast." 
-      //   github="https://github.com/SFosR/Weather-Dash.git"
-      //   livelink="https://sfosr.github.io/Weather-Dash/" />
-
-      //   <ProjectCard title="Note Taker" 
-      //   img="./img/notetaker.png"
-      //   description="" 
-      //   github="https://github.com/SFosR/Note-Taker.git"
-      //   livelink="https://note-taker-shf.herokuapp.com/" />  
-
-      //   <ProjectCard title="Employee Management System" 
-      //   img="Employee Management System"
-      //   description="" 
-      //   github="https://github.com/SFosR/Employee-Tracker.git"
-      //   livelink="https://youtu.be/fuAlOvWEFho" /> 
-
-      //   <ProjectCard title="Movie Search Engine" 
-      //   img="moviepicker.png"
-      //   description="" 
-      //   github="https://github.com/SFosR/Project-1.git"
-      //   livelink="" /> 
-
-      //   <ProjectCard title="Coming Soon" />    
-
-      
+        
     );
   }
   
-  export default Portfolio;
+  
   
