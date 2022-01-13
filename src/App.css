@@ -1,5 +1,5 @@
 .active {
-  background: whitesmoke;
+  background: white;
   border-radius: .05rem;
 }
 
@@ -28,6 +28,7 @@
   position: absolute;
   background-image: url(./Assets/greenglobe.jpeg);
   background-position: 0% 33%;
+  background-size: cover;
   top: 5px;
   right: 0px;
   bottom: 0px;

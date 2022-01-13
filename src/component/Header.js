@@ -4,7 +4,7 @@ import Resume from '../Assets/Resume_Sheri Foster.pdf';
 
 const Header = ({currentPage, pageChangeHandler}) => {
   return(
-    <div className='d-flex container-fluid bg-secondary align-items-center py-2'>
+    <div className='d-flex container-fluid align-items-center bg-secondary py-2'>
       <h1 className='text-light px-4 me-5'>Sheri Foster</h1>
 
       <ul className='nav navbar-custom justify-content-end'>
