@@ -1,16 +1,25 @@
 .active {
-  background: white;
+  background: whitesmoke;
   border-radius: .05rem;
 }
 
 .nav-item-custom {
-  font-size: 120%;
+  font-size: 150%;
   justify-content: end;
-
 }
 
 .navbar-custom {
   margin-left: auto;
+}
+
+img {
+  
+  border-color: black;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
 
 .about-me {
@@ -29,7 +38,7 @@
   background-image: url(./Assets/greenglobe.jpeg);
   background-position: 0% 33%;
   background-size: cover;
-  top: 5px;
+  top: 0px;
   right: 0px;
   bottom: 0px;
   left: 0px;
@@ -39,7 +48,7 @@
   position: relative;
   padding-top: 30px;
   margin-left: 1rem;
-  font-size: 100%;
+  font-size: 120%;
   width: 60%;
   line-height: 2;
   text-align: left;
@@ -55,6 +64,11 @@
   color: rgb(59,59,59);
 }
 
+/* .myPic {
+  size: 20%;
+  float: right;
+} */
+
 .icons {
   font-size: 100%;
   color: white;
@@ -63,19 +77,18 @@
 }
 
 .contact-bg {
-  background: rgb(250,250,250);
+  background: rgb(120, 181, 133);
 }
 
 .app-bg {
-  background: rgba(198, 215, 255, 0.598);
   min-height: 500px;
   padding-top: 1rem;
 }
 
 .photos {
   overflow: hidden;
-  max-width: 90%;
-  max-height: 90%;
+  max-width: 70%;
+  max-height: 70%;
   margin: auto;
   margin-bottom: 2rem;
 }
