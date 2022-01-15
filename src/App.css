@@ -14,12 +14,10 @@
 
 img {
   
-  border-color: black;
-  border-style: solid;
   display: block;
-  margin-left: auto;
+  margin-left: 15px;
   margin-right: auto;
-  width: 80%;
+  z-index: 5;
 }
 
 .about-me {
@@ -47,7 +45,7 @@ img {
 .about-me p {
   position: relative;
   padding-top: 30px;
-  margin-left: 1rem;
+  margin-left: 20px;
   font-size: 120%;
   width: 60%;
   line-height: 2;

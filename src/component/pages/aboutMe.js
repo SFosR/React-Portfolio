@@ -12,7 +12,7 @@ function AboutMe() {
     
     <div className="about-me"> 
        
-         <img src='../../Assets/selfpic.jpg' className='img-thumbnail shadow-4' alt='...' style={{ maxWidth: '24rem' }} />
+         <img src={myPic} className='img-fluid shadow-4' alt='...' style={{ maxWidth: '24rem' }} />
 
         <section>
           <p>I always thought I should be an engineer of some sort. In fact, every "career test" I've ever taken has said so.  
