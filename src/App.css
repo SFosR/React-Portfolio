@@ -15,9 +15,9 @@
 img {
   
   display: block;
-  margin-left: 15px;
+  margin-left: 30px;
   margin-right: auto;
-  z-index: 5;
+  z-index: 10;
 }
 
 .about-me {
@@ -45,8 +45,8 @@ img {
 .about-me p {
   position: relative;
   padding-top: 30px;
-  margin-left: 20px;
-  font-size: 120%;
+  margin-left: 50px;
+  font-size: 115%;
   width: 60%;
   line-height: 2;
   text-align: left;
