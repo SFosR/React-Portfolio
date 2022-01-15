@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c9c22d0.css",
-    "main.js": "/static/js/main.ca7fbf0d.js",
-    "static/js/787.cf250828.chunk.js": "/static/js/787.cf250828.chunk.js",
-    "static/media/notetaker.png": "/static/media/notetaker.6f3a4639ce2b0c7178d7.png",
-    "static/media/projectpicker.png": "/static/media/projectpicker.816bf9fb9ceba0e111b8.png",
-    "static/media/selfpic.jpg": "/static/media/selfpic.ec55074f81155d5140c7.jpg",
-    "static/media/employeeMgmtSys.png": "/static/media/employeeMgmtSys.79a153d558d2a5414dad.png",
-    "static/media/weatherdash.png": "/static/media/weatherdash.d0a86e9cd8abb6ee1ef7.png",
-    "static/media/eCommerceSF.png": "/static/media/eCommerceSF.43aa88b5c9dd8cb6dbcb.png",
-    "static/media/Resume_Sheri Foster.pdf": "/static/media/Resume_Sheri Foster.d9e8298cf097f38a4840.pdf",
-    "static/media/codequiz.png": "/static/media/codequiz.8abf858cdc04e3d6eeda.png",
-    "static/media/greenglobe.jpeg": "/static/media/greenglobe.192d3abfc5ee19eb3c95.jpeg",
-    "index.html": "/index.html",
-    "main.0c9c22d0.css.map": "/static/css/main.0c9c22d0.css.map",
-    "main.ca7fbf0d.js.map": "/static/js/main.ca7fbf0d.js.map",
-    "787.cf250828.chunk.js.map": "/static/js/787.cf250828.chunk.js.map"
+    "main.css": "/React-Portfolio/static/css/main.4b03eb85.css",
+    "main.js": "/React-Portfolio/static/js/main.0cec9509.js",
+    "static/js/787.cf250828.chunk.js": "/React-Portfolio/static/js/787.cf250828.chunk.js",
+    "static/media/notetaker.png": "/React-Portfolio/static/media/notetaker.6f3a4639ce2b0c7178d7.png",
+    "static/media/projectpicker.png": "/React-Portfolio/static/media/projectpicker.816bf9fb9ceba0e111b8.png",
+    "static/media/selfpic.jpg": "/React-Portfolio/static/media/selfpic.ec55074f81155d5140c7.jpg",
+    "static/media/employeeMgmtSys.png": "/React-Portfolio/static/media/employeeMgmtSys.79a153d558d2a5414dad.png",
+    "static/media/weatherdash.png": "/React-Portfolio/static/media/weatherdash.d0a86e9cd8abb6ee1ef7.png",
+    "static/media/eCommerceSF.png": "/React-Portfolio/static/media/eCommerceSF.43aa88b5c9dd8cb6dbcb.png",
+    "static/media/Resume_Sheri Foster.pdf": "/React-Portfolio/static/media/Resume_Sheri Foster.d9e8298cf097f38a4840.pdf",
+    "static/media/codequiz.png": "/React-Portfolio/static/media/codequiz.8abf858cdc04e3d6eeda.png",
+    "static/media/greenglobe.jpeg": "/React-Portfolio/static/media/greenglobe.192d3abfc5ee19eb3c95.jpeg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.4b03eb85.css.map": "/React-Portfolio/static/css/main.4b03eb85.css.map",
+    "main.0cec9509.js.map": "/React-Portfolio/static/js/main.0cec9509.js.map",
+    "787.cf250828.chunk.js.map": "/React-Portfolio/static/js/787.cf250828.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c9c22d0.css",
-    "static/js/main.ca7fbf0d.js"
+    "static/css/main.4b03eb85.css",
+    "static/js/main.0cec9509.js"
   ]
 }
